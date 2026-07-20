@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=round&color=gradient&customColorList=0,10,20,30&height=170&section=header&text=Vaishali%20Chilhate&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=120&lines=root%40vaishalichilhate%3A~%2B+whoami;Vaishali+Chilhate+-+Cloud+%26+DevOps;root%40vaishalichilhate%3A~%2B+cat+skills.txt;AWS+%E2%80%A2+Docker+%E2%80%A2+Kubernetes+%E2%80%A2+Terraform" alt="Terminal Header" />
 </p>
 
 <h1 align="center">Hi there, I'm 👩‍💻 Vaishali Chilhate</h1>
