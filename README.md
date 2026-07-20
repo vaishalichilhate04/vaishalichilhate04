@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=180&section=header&text=%40vaishalichilhate&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=%3C%2F%3E+%40vaishalichilhate;Cloud+%26+DevOps+Engineer;Automating+Infrastructure+At+Scale;Welcome+To+My+Profile!%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=100&lines=%3C%2F%3E+%40vaishalichilhate;Cloud+%26+DevOps+Engineer;Automating+Infrastructure+At+Scale;Welcome+To+My+Profile!%F0%9F%9A%80" alt="Animated Terminal Header" />
+  </a>
 </p>
 
 <h1 align="center">Hi there, I'm 👩‍💻 Vaishali Chilhate</h1>
