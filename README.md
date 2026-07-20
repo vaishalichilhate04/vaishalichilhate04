@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,25,30&height=160&section=header&text=%40vaishalichilhate&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Sunset Slice Banner" />
-</p>>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=180&section=header&text=%40vaishalichilhate&fontSize=50&fontColor=ffffff&fontAlignY=35" alt="Header Banner" />
+</p>
 
 <h1 align="center">Hi there, I'm 👩‍💻 Vaishali Chilhate</h1>
 
