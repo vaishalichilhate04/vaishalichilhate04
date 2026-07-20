@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,20,30&height=170&section=header&text=Vaishali%20Chilhate&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=round&color=gradient&customColorList=0,10,20,30&height=170&section=header&text=Vaishali%20Chilhate&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm 👩‍💻 Vaishali Chilhate</h1>
