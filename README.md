@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=180&section=header&text=Vaishali%20Chilhate&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Venom Header" />
-</p>
+<div align="center">
+  <h1><code>&lt;VaishaliChilhate /&gt;</code></h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Building_Cloud_Infrastructure-00F0FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-DevOps_%26_Automation-FF9900?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </p>
+</div>
 
 <h1 align="center">Hi there, I'm 👩‍💻 Vaishali Chilhate</h1>
 
